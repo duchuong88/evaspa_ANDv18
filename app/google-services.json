@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "31524543063",
+    "firebase_url": "https://eva-spa-587c9-default-rtdb.firebaseio.com",
+    "project_id": "eva-spa-587c9",
+    "storage_bucket": "eva-spa-587c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31524543063:android:5caa2fd00e09bdee15a112",
+        "android_client_info": {
+          "package_name": "evaspa.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOs7mIYDCjAFUFaIoalkbGEpLJFScxL-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
