@@ -8,8 +8,8 @@ android {
         applicationId "evaspa.ezs"
         minSdkVersion 23
         targetSdkVersion 35
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
     }
     buildTypes {
@@ -30,8 +30,8 @@ android {
     productFlavors {
         prod {
             applicationId "evaspa.ezs"
-            versionCode 1
-            versionName "1.0"
+            versionCode 2
+            versionName "1.1"
         }
     }
 
